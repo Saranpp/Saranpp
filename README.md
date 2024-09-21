@@ -63,10 +63,10 @@
 ## Contact Me
 <p align="left">
 <a href="mailto:pangas2231@gmail.com">
- <img align="left" alt="Gmail" width="150" height="50" src="https://github.com/Saranpp/About-me/raw/main/assets/gmail.png" />
+ <img align="left" alt="Gmail" width="150" height="50" src="https://github.com/Saranpp/Saranpp/blob/main/assets/gmail.png" />
 </a>
 <a href="https://www.reddit.com/user/saranporn_p">
-  <img align="left" alt="Reddit" width="150" height="50" src="https://github.com/Saranpp/About-me/raw/main/assets/reddit.png" />
+  <img align="left" alt="Reddit" width="150" height="50" src="https://github.com/Saranpp/Saranpp/blob/main/assets/reddit.png" />
 </a>
 </p>
 
