@@ -32,7 +32,7 @@
 ## 🔧Languages and Tools :
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![WakaTime Stats](https://wakatime.com/share/@da0c5c2e-4807-4a0b-ba9f-cb2f7fb32891/8c16133b-aa97-45e1-965e-8ee0a9d60eaf.svg)
+![WakaTime Stats](https://wakatime.com/share/@da0c5c2e-4807-4a0b-ba9f-cb2f7fb32891/a1c54fa5-aad1-4df2-afa1-7975ff345f7f.svg)
 
 
 
