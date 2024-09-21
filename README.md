@@ -32,7 +32,7 @@
 ## 🔧Languages and Tools :
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![WakaTime Stats](https://wakatime.com/share/@da0c5c2e-4807-4a0b-ba9f-cb2f7fb32891/a1c54fa5-aad1-4df2-afa1-7975ff345f7f.svg)
+<img src="https://wakatime.com/share/@da0c5c2e-4807-4a0b-ba9f-cb2f7fb32891/a1c54fa5-aad1-4df2-afa1-7975ff345f7f.svg" width="500" height="450" alt="WakaTime Stats"/>
 
 
 
@@ -55,8 +55,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saranpp&theme=radical" alt="Saranpp" /></a> </p>
 
 ## ⌨️ My Coding Activity
-![WakaTime Stats](https://wakatime.com/share/@da0c5c2e-4807-4a0b-ba9f-cb2f7fb32891/c5f0364f-38c7-4ac8-b7eb-c08a2d06fda8.svg)
-
+<img src="https://wakatime.com/share/@da0c5c2e-4807-4a0b-ba9f-cb2f7fb32891/c5f0364f-38c7-4ac8-b7eb-c08a2d06fda8.svg" width="500" height="450" alt="WakaTime Stats"/>
 
 ## 🎮 Contact Me :
 <!-- Insert any anime or gamer-related GIFs -->
