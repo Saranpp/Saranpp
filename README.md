@@ -60,7 +60,6 @@
 
 ### I’m a dedicated gamer with a strong passion for becoming a software engineer, and a true anime enthusiast🐱🎮
 ### So you can reach me at :
-## Contact Me
 <p align="left">
 <a href="mailto:pangas2231@gmail.com">
  <img align="left" alt="Gmail" width="150" height="50" src="https://github.com/Saranpp/Saranpp/blob/main/assets/gmail.png" />
