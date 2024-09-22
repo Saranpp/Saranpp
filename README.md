@@ -54,7 +54,7 @@
 ## 🏆 GitHub Trophies :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saranpp&theme=radical" alt="Saranpp" /></a> </p>
 
-## ⌨️ My Coding Activity
+## ⌨️ My Coding Activity :
 <img src="https://wakatime.com/share/@da0c5c2e-4807-4a0b-ba9f-cb2f7fb32891/c5f0364f-38c7-4ac8-b7eb-c08a2d06fda8.svg" width="500" height="450" alt="WakaTime Stats"/>
 
 ## 🎮 Contact Me :
